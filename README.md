@@ -4,6 +4,7 @@ TODO: create requirements.txt, backup chat history file, OBS websockets implemen
 App that allows you to talk to characters using OpenAI.
 
 Created for jengy13 at https://www.twitch.tv/jengy13.
+
 Credit to DougDoug for idea and inspiration! (most of the code is his...)
 
 ## Things you will need :
