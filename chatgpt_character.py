@@ -7,7 +7,6 @@ from open_ai import OpenAiManager
 import os
 import yaml
 
-print(os.getenv('AZURE_TTS_KEY'))
 speechtotext_manager = SpeechToTextManager()
 elevenlabs_manager = ElevenLabsManager()
 openai_manager = OpenAiManager()
