@@ -30,7 +30,7 @@ Credit to DougDoug for idea and inspiration! (most of the code is his...)
 5) After creating an ElevenLabs account, create an AI voice and create an input in voice_config.yaml with that voice's voice ID and character personality. You may also modify the menu in chatgpt_character.py with characters that you have created.
 
 
-### How to use : 
+## How to use : 
 1) Run 'chatgpt_character.py'
 
 2) Once it's running, press F4 to say something to your character.
